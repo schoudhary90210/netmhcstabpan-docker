@@ -10,7 +10,7 @@ This Docker image provides NetMHCstabpan-1.0 (integrated with NetMHCpan-2.8) for
 
 ## Installation
 1. Install Docker: Download from https://www.docker.com/products/docker-desktop/.
-2. Pull the image: docker pull yourusername/netmhcstabpan:final
+2. Pull the image: docker pull csiddhant12/netmhcstabpan:final
 
 - On Apple Silicon Macs, it runs via emulation (may be slower; see Troubleshooting).
 
